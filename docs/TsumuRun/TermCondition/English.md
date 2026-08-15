@@ -37,7 +37,7 @@ function as intended without these.
 ## 5. Your data
 
 Health data is read from Apple Health and stays on your device. See our
-[Privacy Policy](PRIVACY_POLICY.md) for details on what is and is not collected.
+Privacy Policy for details on what is and is not collected.
 
 ## 6. Acceptable use
 
@@ -123,7 +123,7 @@ Tsumu Run(以下「本アプリ」)をご利用になる前に、本規約をお
 ## 5. 利用者のデータ
 
 ヘルスデータはヘルスケアアプリから読み取られ、端末内に留まります。詳細は
-[プライバシーポリシー](PRIVACY_POLICY.md)をご覧ください。
+プライバシーポリシーをご覧ください。
 
 ## 6. 禁止事項
 
